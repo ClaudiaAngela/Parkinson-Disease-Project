@@ -1,4 +1,4 @@
-# PD-Project-
+# Parkinson-Disease-Project
 
 ## Project Description
 
